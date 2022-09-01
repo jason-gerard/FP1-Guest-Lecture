@@ -1,5 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
 	System.out.println("New conflict");
+	System.out.println("Justin is next to me and he smells!");
     }
 }
